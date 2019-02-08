@@ -63,7 +63,7 @@
                 <artifactId>wildfly-maven-plugin</artifactId>
                 <version>2.0.0.Final</version>
                 <configuration>
-                    <jbossHome>C:\Users\AhmedShalaby\IdeaProjects\testparent - structured\wildfly-15.0.1.Final\standalone\configuration</jbossHome>
+                    <jbossHome>C:\wildfly-15.0.1.Final\standalone\configuration</jbossHome>
                     <serverConfig>standalone.xml</serverConfig>
                     <skip>true</skip>
                 </configuration>
